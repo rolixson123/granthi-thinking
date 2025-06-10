@@ -9,7 +9,7 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 ## 📖 Start Here
 
-🔹 [Granthi Manifesto](docs/granthi_prompts_en.md)
+🔹 [Granthi Manifesto](granthi_manifest.md)
 
 This text explains the core philosophy of Granthi Prompts:  
 why they matter, how they refresh AI's thinking, and what makes them different from standard prompt engineering.

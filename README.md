@@ -16,14 +16,6 @@ why they matter, how they refresh AI's thinking, and what makes them different f
 
 ---
 
-## 📚 Repository Structure
-
-- `docs/` — Manifestos, instructions, theory
-- `meta-prompts/` — Higher-order prompt formats
-- `responses/` — AI dialogue outputs (case studies, reflections)
-- `README.md` — You're here
-
----
 
 ## 🧭 What is a Granthi Prompt?
 

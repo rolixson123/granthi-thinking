@@ -15,7 +15,7 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 ## 🛠️ How to Use Granthi Prompts
 
-📖 [Read the guide on how to use Granthi Prompts →](docs/how_to_use_granthi_prompts.md)
+📖 [Read the guide on how to use Granthi Prompts →](docs/how_to_use_granthi_prompts)
 
 ---
 

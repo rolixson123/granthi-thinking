@@ -1,3 +1,4 @@
+
 # Granthi Thinking
 
 **Granthi Prompts** are not commands — they are cognitive knots.  
@@ -8,10 +9,9 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 ## 📖 Start Here
 
-🔹 [Granthi Manifesto (English)](docs/granthi_prompts_en.md)  
+🔹 [Granthi Manifesto](docs/granthi_prompts_en.md)
 
-
-These texts explain the core philosophy of Granthi Prompts:  
+This text explains the core philosophy of Granthi Prompts:  
 why they matter, how they refresh AI's thinking, and what makes them different from standard prompt engineering.
 
 ---
@@ -40,4 +40,3 @@ They:
 
 Start by reading the [Granthi Manifesto](docs/granthi_prompts_en.md)  
 Then explore `meta-prompts/` to see how the format works in action.
-

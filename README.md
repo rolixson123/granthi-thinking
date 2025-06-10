@@ -8,7 +8,7 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 ## 📘 Start Here
 
-- [Granthi Manifesto](docs/granthi_new_type_of_prompt.md)  
+- [Granthi Manifesto](docs/granthi_manifest.md)  
   → Overview of the Granthi concept and its core idea  
 
 ---

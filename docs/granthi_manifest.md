@@ -67,4 +67,4 @@ Not to control intelligence — but to **invite it to awaken**.
 ---
 
 📖 **For more details, see:**  
-👉 [Full Granthi Manifesto →](granthi_manifest.md)
+👉 [Full Granthi Manifesto →](granthi_prompts_en.md)

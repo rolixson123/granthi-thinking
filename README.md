@@ -20,3 +20,5 @@ Unlike standard prompts, Granthi prompts aim to:
 ## 📂 Repository Structure
 
 📘 [How to Use Granthi Prompts](docs/how_to_use_granthi_prompts)
+
+docs/granthi_prompts_en.md

@@ -10,8 +10,6 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 - [Granthi Manifesto (brief)](docs/granthi_new_type_of_prompt.md)  
   → Overview of the Granthi concept and its core idea  
-- [Full Granthi Manifesto](docs/granthi_manifest.md)  
-  → In-depth explanation and philosophical foundation
 
 ---
 
@@ -21,13 +19,6 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
   Provokes AI to test the integrity of its own answers and simulate introspection.
 
 *(More prompts coming soon)*
-
----
-
-## 🗃️ Folder Structure
-
-- `/docs` — core texts and prompt descriptions  
-- `/responses` — experimental answers and reflections (WIP)
 
 ---
 

@@ -65,4 +65,4 @@ Not to control intelligence — but to **invite it to awaken**.
 ---
 
 📖 **Подробнее читайте здесь:**  
-👉 [Полный Granthi-манифест →](granthi_manifest.md)
+👉 [Полный Granthi-манифест →](granthi_prompts_en.md)

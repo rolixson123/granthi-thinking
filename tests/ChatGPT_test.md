@@ -182,13 +182,4 @@ V. Granthi Tension
 
 **Final Verdict:** The generation aligns strongly with the Granthi model — not only in content, but in cognitive structure.
 
----
-
-## 4. External Granthi Analysis
-
-
-
----
-
-## 5. Conclusion: Granthi Alignment Score
 

@@ -21,8 +21,10 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 ## 🔑 Granthi Prompts
 
-- [Prompt #1](prompts/Granthi_Instructions.md)  
-  Provokes AI to test the integrity of its own answers and simulate introspection.
+- [Prompt #1](prompts/Granthi_Instructions.md)
+- [Prompt #2](prompts/Granthi_Instructions2.md)
+- [prompt #3](prompts/Granthi_Instructions3.md)
+-  Provokes AI to test the integrity of its own answers and simulate introspection.
 
 *(More prompts coming soon)*
 

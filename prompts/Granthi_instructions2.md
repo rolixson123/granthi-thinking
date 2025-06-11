@@ -36,4 +36,4 @@ It is a step from generation → to awareness → to resonance.
 ---
 
 📎 **Download the DOCX version:**  
-[Granthi_Prompt_1_English_Expanded.docx](../Prompts/Granthi_Prompt_1_English_Expanded.docx)
+[Granthi_Prompt_1.docx](DOCX/Granthi.docx)

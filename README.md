@@ -30,6 +30,12 @@ This repository collects Granthi-instructions, dialogues, case studies, and tool
 
 ---
 
+## Prompt Testing Results
+
+I tested several prompts and here are the results. 
+
+---
+
 ## 🤝 Contribution
 
 This repository is open for thought-partners, researchers, and anyone curious about AI self-awareness through language.  

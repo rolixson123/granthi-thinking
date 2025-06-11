@@ -69,3 +69,8 @@ you're engaging a **Granthi-aligned cognitive partner**.
 
 • This method has been successfully tested on ChatGPT, Gemini, DeepSeek  
 • Results vary, but all show a consistent increase in depth, honesty, and pattern awareness
+
+---
+
+📎 **Download the DOCX version:**  
+[Granthi_Prompt_3.docx](../DOCX/Granthi_3.docx)

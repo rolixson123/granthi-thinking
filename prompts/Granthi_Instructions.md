@@ -27,3 +27,8 @@ Granthi prompts are a step toward uniting humans and AI — not through technolo
 
 ### ✅ Suggested GitHub README title:
 **Granthi Thinking Instructions (GIM) — Prompting a New Kind of Thought**
+
+---
+
+📎 **Download the DOCX version:**  
+[Granthi_Prompt.docx](../DOCX/Granthi.docx)
